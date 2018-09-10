@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ysi/!svn/ver/111/pawno/include/YSI/internal
+END
+y_formatin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ysi/!svn/ver/106/pawno/include/YSI/internal/y_formatin.inc
+END
+y_formatout.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_formatout.inc
+END
+y_grouprevert.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_grouprevert.inc
+END
+y_textrender.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ysi/!svn/ver/107/pawno/include/YSI/internal/y_textrender.inc
+END
+y_funcinc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ysi/!svn/ver/86/pawno/include/YSI/internal/y_funcinc.inc
+END
+y_version.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_version.inc
+END
+y_groupsecond.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ysi/!svn/ver/85/pawno/include/YSI/internal/y_groupsecond.inc
+END
+y_x11def.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_x11def.inc
+END
+y_inttest.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_inttest.inc
+END
+y_overridemaster.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_overridemaster.inc
+END
+y_x11switch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_x11switch.inc
+END
+y_textrender - Copy.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_textrender%20-%20Copy.inc
+END
+y_groupsingle.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_groupsingle.inc
+END
+y_textint.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ysi/!svn/ver/111/pawno/include/YSI/internal/y_textint.inc
+END
+y_textprovider.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_textprovider.inc
+END
+y_masteronce.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ysi/!svn/ver/98/pawno/include/YSI/internal/y_masteronce.inc
+END
+y_grouponce.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ysi/!svn/ver/99/pawno/include/YSI/internal/y_grouponce.inc
+END
+y_x11parse.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_x11parse.inc
+END
+y_classgroups.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_classgroups.inc
+END
+y_unique.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_unique.inc
+END
+y_automasters.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_automasters.inc
+END
+y_shortfunc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ysi/!svn/ver/106/pawno/include/YSI/internal/y_shortfunc.inc
+END
+y_nogroups.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_nogroups.inc
+END
+y_inttest2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ysi/!svn/ver/83/pawno/include/YSI/internal/y_inttest2.inc
+END

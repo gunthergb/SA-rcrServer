@@ -1,0 +1,121 @@
+[01/16/2015 | 11:44:59] <!> Admin Chat SecretBoss: test
+[01/18/2015 | 10:08:19] <!> Admin Chat SecretBoss: asd
+[01/23/2015 | 11:52:27] <!> Admin Chat SecretBoss: test
+[01/23/2015 | 11:52:29] <!> Admin Chat SecretBoss: mila edo
+[01/23/2015 | 11:52:52] <!> Admin Chat SecretBoss: mila edo
+[01/23/2015 | 11:52:56] <!> Admin Chat SecretBoss: ok gia to host
+[01/23/2015 | 11:53:16] <!> Admin Chat DaBigBoss: mou pire allos to host sto ultra-h epidi eixa 3exasei na mpo :D
+[01/23/2015 | 11:53:22] <!> Admin Chat SecretBoss: ok
+[01/23/2015 | 11:53:31] <!> Admin Chat DaBigBoss: pos to ekanes auto re na grafeis mauro ? :D
+[01/23/2015 | 11:53:39] <!> Admin Chat SecretBoss: malakia
+[01/23/2015 | 11:53:42] <!> Admin Chat SecretBoss: ekana lathos
+[01/23/2015 | 11:53:50] <!> Admin Chat DaBigBoss: me poio to ekanes ?
+[01/23/2015 | 11:54:06] <!> Admin Chat SecretBoss: OnPlayerText
+[01/23/2015 | 11:54:16] <!> Admin Chat DaBigBoss: mia xara file 
+[01/23/2015 | 11:54:18] <!> Admin Chat DaBigBoss: einai
+[01/23/2015 | 11:54:19] <!> Admin Chat SecretBoss: ?
+[01/23/2015 | 11:54:27] <!> Admin Chat SecretBoss: den einai oreo xroma
+[01/23/2015 | 11:54:38] <!> Admin Chat DaBigBoss: mpori na to xrisimopoisoume gia tous vips
+[01/23/2015 | 11:54:48] <!> Admin Chat SecretBoss: kali idea
+[01/23/2015 | 11:54:51] <!> Admin Chat DaBigBoss: kai allo gia tous admins
+[01/23/2015 | 11:54:59] <!> Admin Chat SecretBoss: einai diskolo
+[01/23/2015 | 11:55:08] <!> Admin Chat SecretBoss: /god
+[01/23/2015 | 11:55:09] <!> Admin Chat DaBigBoss: if is player admin onplayerText kai ta lipa nomizo
+[01/23/2015 | 11:55:23] <!> Admin Chat SecretBoss: nai omos to jadmin einai fs
+[01/23/2015 | 11:55:42] <!> Admin Chat DaBigBoss: sto fs kanto auto
+[01/23/2015 | 11:58:27] <!> Admin Chat DaBigBoss: re den exoume /pm :D
+[01/23/2015 | 11:58:36] <!> Admin Chat SecretBoss: pooo ksexasa telios
+[01/23/2015 | 12:01:39] <!> Admin Chat SecretBoss: xaxa
+[01/23/2015 | 12:01:44] <!> Admin Chat DaBigBoss: ?
+[01/23/2015 | 12:03:21] <!> Admin Chat DaBigBoss: lol piges na me crasharis leei
+[01/23/2015 | 12:03:26] <!> Admin Chat SecretBoss: ti?
+[01/23/2015 | 12:03:28] <!> Admin Chat DaBigBoss: to sob
+[01/23/2015 | 12:03:32] <!> Admin Chat SecretBoss: oti nane
+[01/23/2015 | 12:03:33] <!> Admin Chat DaBigBoss: leei piges na crasharis
+[01/23/2015 | 12:04:15] <!> Admin Chat DaBigBoss: ta stats den kanoun save
+[01/23/2015 | 12:04:19] <!> Admin Chat DaBigBoss: na 3eris
+[01/23/2015 | 12:04:50] <!> Admin Chat SecretBoss: ta gamisa thn mana
+[01/23/2015 | 12:04:55] <!> Admin Chat DaBigBoss: xxaxaxa
+[01/23/2015 | 12:04:59] <!> Admin Chat SecretBoss: douleuan
+[01/23/2015 | 12:05:06] <!> Admin Chat SecretBoss: ala ekana kati ales malakies
+[01/23/2015 | 12:05:09] <!> Admin Chat DaBigBoss: ti 8a kanoume ?
+[01/23/2015 | 12:05:20] <!> Admin Chat DaBigBoss: me autous
+[01/23/2015 | 12:05:37] <!> Admin Chat DaBigBoss: kai i dio 8eloun na scriptaroun
+[01/23/2015 | 12:10:19] <!> Admin Chat DaBigBoss: kalo to aimbot ?
+[01/23/2015 | 12:11:29] <!> Admin Chat SecretBoss: kopse re
+[01/23/2015 | 12:11:37] <!> Admin Chat DaBigBoss: dokimazo to aimbot
+[01/23/2015 | 12:11:45] <!> Admin Chat SecretBoss: ok stamata tora
+[01/23/2015 | 12:58:01] <!> Admin Chat SecretBoss: hey
+[01/23/2015 | 12:58:07] <!> Admin Chat Tyler_J_Smith: Hey
+[01/23/2015 | 12:58:12] <!> Admin Chat SecretBoss: can you see others commands?
+[01/23/2015 | 12:58:26] <!> Admin Chat Tyler_J_Smith: Type /commands
+[01/23/2015 | 12:58:36] <!> Admin Chat SecretBoss: I mean if someone type a cmd can you see what he typed?
+[01/23/2015 | 12:58:43] <!> Admin Chat Tyler_J_Smith: Type it and ill see
+[01/23/2015 | 12:59:04] <!> Admin Chat SecretBoss: You can't higher level commands
+[01/23/2015 | 12:59:18] <!> Admin Chat Tyler_J_Smith: I was able to see someone else type commands
+[01/23/2015 | 12:59:31] <!> Admin Chat Tyler_J_Smith: Btw Repair with 2 Button works
+[01/23/2015 | 12:59:40] <!> Admin Chat Tyler_J_Smith: The Jump button H/Caps Lock
+[01/23/2015 | 12:59:50] <!> Admin Chat SecretBoss: yeah its working
+[01/23/2015 | 12:59:51] <!> Admin Chat Tyler_J_Smith: Stats work aswell.
+[01/23/2015 | 13:00:06] <!> Admin Chat Tyler_J_Smith: Every time you hit to turn nos on it goes faster :D
+[01/23/2015 | 13:00:19] <!> Admin Chat SecretBoss: Yeah with KeyFire
+[01/23/2015 | 13:00:20] <!> Admin Chat Tyler_J_Smith: I wish we'd get a player that stays.
+[01/23/2015 | 13:00:43] <!> Admin Chat Tyler_J_Smith: Oh well, Just give it time.
+[01/23/2015 | 13:00:52] <!> Admin Chat SecretBoss: We are not in hosted tab
+[01/23/2015 | 13:59:51] <!> Admin Chat blackNred: strange
+[01/23/2015 | 13:59:57] <!> Admin Chat Tyler_J_Smith: They got the same ips.
+[01/23/2015 | 14:00:06] <!> Admin Chat Tyler_J_Smith: Its probably that failed kid. or just some brothers playing
+[01/23/2015 | 14:00:15] <!> Admin Chat blackNred: Or they are bots
+[01/23/2015 | 14:00:15] <!> Admin Chat Tyler_J_Smith: Or something else
+[01/27/2015 | 11:29:01] <!> Admin Chat EatDust: hello
+[01/27/2015 | 19:28:11] <!> Admin Chat EatDust: remember?
+[01/27/2015 | 19:28:45] <!> Admin Chat EatDust: /a
+[01/27/2015 | 19:28:50] <!> Admin Chat Tyler_J_Smith: Yeh
+[01/27/2015 | 19:28:59] <!> Admin Chat EatDust: /acmds
+[01/27/2015 | 19:29:04] <!> Admin Chat Tyler_J_Smith: I know 
+[01/27/2015 | 19:29:09] <!> Admin Chat Tyler_J_Smith: I just forgot the /a thing
+[01/27/2015 | 19:29:14] <!> Admin Chat EatDust: lol
+[01/27/2015 | 19:30:04] <!> Admin Chat EatDust: don't tell anyone that you're an admin
+[01/27/2015 | 19:30:13] <!> Admin Chat Tyler_J_Smith: Yeh they already know so it don't matter
+[01/27/2015 | 19:30:14] <!> Admin Chat EatDust: he can do /admins
+[01/27/2015 | 19:30:31] <!> Admin Chat Tyler_J_Smith: Yeh i guess.
+[01/27/2015 | 19:30:47] <!> Admin Chat EatDust: some might think that you are telling them i'm admin and you're regualr playetr
+[01/27/2015 | 19:31:05] <!> Admin Chat EatDust: it's like i'm admin so fuck you normal user
+[01/27/2015 | 19:31:13] <!> Admin Chat Tyler_J_Smith: No fuck you
+[01/27/2015 | 19:31:18] <!> Admin Chat EatDust: you know what i mean?
+[01/27/2015 | 19:31:23] <!> Admin Chat Tyler_J_Smith: I guess
+[01/27/2015 | 19:32:37] <!> Admin Chat Tyler_J_Smith: I think this kid is hacking
+[01/27/2015 | 19:32:46] <!> Admin Chat Tyler_J_Smith: He is shooting me with a sniper long range and hitting me xD
+[01/27/2015 | 19:32:51] <!> Admin Chat EatDust: can you spec him?
+[01/27/2015 | 19:34:00] <!> Admin Chat EatDust: i don't think he is
+[01/27/2015 | 19:34:11] <!> Admin Chat Tyler_J_Smith: I can't get outta spectate
+[01/27/2015 | 19:34:12] <!> Admin Chat EatDust: he is good sniper
+[01/27/2015 | 19:34:13] <!> Admin Chat Tyler_J_Smith: Shutttt
+[01/27/2015 | 19:36:34] <!> Admin Chat EatDust: i gotta go rp
+[01/27/2015 | 19:36:37] <!> Admin Chat Tyler_J_Smith: xD
+[01/27/2015 | 19:36:50] <!> Admin Chat EatDust: be back later iguess
+[01/27/2015 | 19:37:00] <!> Admin Chat Tyler_J_Smith: :(
+[01/27/2015 | 19:37:02] <!> Admin Chat Tyler_J_Smith: Bye
+[01/31/2015 | 11:33:02] <!> Admin Chat EatDust: LOL
+[02/08/2015 | 08:24:07] <!> Admin Chat EatDust: Heya
+[02/08/2015 | 08:24:14] <!> Admin Chat KazEndless: Hey ^^
+[02/08/2015 | 08:24:27] <!> Admin Chat EatDust: How ya doin ?
+[02/08/2015 | 08:25:29] <!> Admin Chat KazEndless: wat?
+[02/08/2015 | 08:27:02] <!> Admin Chat EatDust: First time i see lot of people xD
+[02/08/2015 | 08:27:21] <!> Admin Chat KazEndless: haha yeah.
+[02/08/2015 | 08:27:36] <!> Admin Chat KazEndless: you're new admin?
+[02/08/2015 | 08:27:55] <!> Admin Chat EatDust: i've been admin for 15 days i think
+[02/08/2015 | 08:28:00] <!> Admin Chat EatDust: so yeah i'm new xD
+[02/08/2015 | 08:28:09] <!> Admin Chat KazEndless: Ohh. .
+[02/08/2015 | 08:29:15] <!> Admin Chat EatDust: couldn;t help people with my rank :(
+[02/08/2015 | 08:30:12] <!> Admin Chat KazEndless: I'am going off , bye.
+[02/08/2015 | 08:30:17] <!> Admin Chat EatDust: Bye
+[02/09/2015 | 09:03:32] <!> Admin Chat EatDust: heyu
+[02/09/2015 | 09:03:55] <!> Admin Chat DaBig: hey
+[02/09/2015 | 09:04:12] <!> Admin Chat EatDust: you got the new pc?
+[02/09/2015 | 09:04:25] <!> Admin Chat DaBig: yeah :D
+[02/09/2015 | 09:04:33] <!> Admin Chat EatDust: Congratz
+[02/09/2015 | 09:04:40] <!> Admin Chat DaBig: thanks
+[02/09/2015 | 09:45:28] <!> Admin Chat EatDust: hey
+[02/09/2015 | 09:45:35] <!> Admin Chat blackNred: promoted :)
+[02/09/2015 | 09:45:43] <!> Admin Chat EatDust: Thanks :D

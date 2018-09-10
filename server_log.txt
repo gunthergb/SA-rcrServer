@@ -1,0 +1,228 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:16:10] 
+[00:16:10] Server Plugins
+[00:16:10] --------------
+[00:16:10]  Loading plugin: streamer
+[00:16:10] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[00:16:10]   Loaded.
+[00:16:10]  Loading plugin: sscanf
+[00:16:10] 
+
+[00:16:10]  ===============================
+
+[00:16:10]       sscanf plugin loaded.     
+
+[00:16:10]          Version:  2.8.1        
+
+[00:16:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:16:10]  ===============================
+
+[00:16:10]   Loaded.
+[00:16:10]  Loading plugin: Whirlpool
+[00:16:10]  
+[00:16:10]  ==================
+[00:16:10]  
+[00:16:10]   Whirlpool loaded
+[00:16:10]  
+[00:16:10]  ==================
+[00:16:10]  
+[00:16:10]   Loaded.
+[00:16:10]  Loading plugin: discord-connector
+[00:16:11]  >> plugin.dc-connector: 0.2.4 successfully loaded.
+[00:16:11]   Loaded.
+[00:16:11]  Loading plugin: crashdetect
+[00:16:11]   crashdetect v4.8.3 is OK.
+[00:16:11]   Loaded.
+[00:16:11]  Loaded 5 plugins.
+
+[00:16:11] 
+[00:16:11] Filterscripts
+[00:16:11] ---------------
+[00:16:11]   Loading filterscript 'CarMenu_v1.2.amx'...
+[00:16:11] ===============================================
+[00:16:11] Vehicle Selection Menu By [03]Garsino Loaded...
+[00:16:11] ===============================================
+[00:16:11]   Loading filterscript 'Teleports.amx'...
+[00:16:11] 
+  Go to LS, SF or LV.
+
+[00:16:11]   Loading filterscript 'IntMenu.amx'...
+[00:16:11] 
+		Interior Menu v1.4 By Garsino Loaded!
+
+[00:16:11]   Loaded 3 filterscripts.
+
+[00:16:11] 
+#############################
+[00:16:11] #                           #
+[00:16:11] #          [Sarcr]          #
+[00:16:11] #        San Andreas        #
+[00:16:11] #   Roleplay/Cops/Robbers   #
+[00:16:11] #                           #
+[00:16:11] #############################
+
+[00:16:11] Number of vehicle models: 164
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:18:03] 
+[00:18:03] Server Plugins
+[00:18:03] --------------
+[00:18:03]  Loading plugin: streamer
+[00:18:03] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[00:18:03]   Loaded.
+[00:18:03]  Loading plugin: sscanf
+[00:18:03] 
+
+[00:18:03]  ===============================
+
+[00:18:03]       sscanf plugin loaded.     
+
+[00:18:03]          Version:  2.8.1        
+
+[00:18:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:18:03]  ===============================
+
+[00:18:03]   Loaded.
+[00:18:03]  Loading plugin: Whirlpool
+[00:18:03]  
+[00:18:03]  ==================
+[00:18:03]  
+[00:18:03]   Whirlpool loaded
+[00:18:03]  
+[00:18:03]  ==================
+[00:18:03]  
+[00:18:03]   Loaded.
+[00:18:03]  Loading plugin: discord-connector
+[00:18:04]  >> plugin.dc-connector: 0.2.4 successfully loaded.
+[00:18:04]   Loaded.
+[00:18:04]  Loading plugin: crashdetect
+[00:18:04]   crashdetect v4.8.3 is OK.
+[00:18:04]   Loaded.
+[00:18:04]  Loaded 5 plugins.
+
+[00:18:04] 
+[00:18:04] Filterscripts
+[00:18:04] ---------------
+[00:18:04]   Loading filterscript 'CarMenu_v1.2.amx'...
+[00:18:04] ===============================================
+[00:18:04] Vehicle Selection Menu By [03]Garsino Loaded...
+[00:18:04] ===============================================
+[00:18:04]   Loading filterscript 'Teleports.amx'...
+[00:18:04] 
+  Go to LS, SF or LV.
+
+[00:18:04]   Loading filterscript 'IntMenu.amx'...
+[00:18:04] 
+		Interior Menu v1.4 By Garsino Loaded!
+
+[00:18:04]   Loaded 3 filterscripts.
+
+[00:18:04] 
+#############################
+[00:18:04] #                           #
+[00:18:04] #          [Sarcr]          #
+[00:18:04] #        San Andreas        #
+[00:18:04] #   Roleplay/Cops/Robbers   #
+[00:18:04] #                           #
+[00:18:04] #############################
+
+[00:18:04] Number of vehicle models: 164
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:21:08] 
+[00:21:08] Server Plugins
+[00:21:08] --------------
+[00:21:08]  Loading plugin: streamer
+[00:21:08] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[00:21:08]   Loaded.
+[00:21:08]  Loading plugin: sscanf
+[00:21:08] 
+
+[00:21:08]  ===============================
+
+[00:21:08]       sscanf plugin loaded.     
+
+[00:21:08]          Version:  2.8.1        
+
+[00:21:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:21:08]  ===============================
+
+[00:21:08]   Loaded.
+[00:21:08]  Loading plugin: Whirlpool
+[00:21:08]  
+[00:21:08]  ==================
+[00:21:08]  
+[00:21:08]   Whirlpool loaded
+[00:21:08]  
+[00:21:08]  ==================
+[00:21:08]  
+[00:21:08]   Loaded.
+[00:21:08]  Loading plugin: discord-connector
+[00:21:09]  >> plugin.dc-connector: 0.2.4 successfully loaded.
+[00:21:09]   Loaded.
+[00:21:09]  Loading plugin: crashdetect
+[00:21:09]   crashdetect v4.8.3 is OK.
+[00:21:09]   Loaded.
+[00:21:09]  Loaded 5 plugins.
+
+[00:21:09] 
+[00:21:09] Filterscripts
+[00:21:09] ---------------
+[00:21:09]   Loading filterscript 'CarMenu_v1.2.amx'...
+[00:21:09] ===============================================
+[00:21:09] Vehicle Selection Menu By [03]Garsino Loaded...
+[00:21:09] ===============================================
+[00:21:09]   Loading filterscript 'Teleports.amx'...
+[00:21:09] 
+  Go to LS, SF or LV.
+
+[00:21:09]   Loading filterscript 'IntMenu.amx'...
+[00:21:09] 
+		Interior Menu v1.4 By Garsino Loaded!
+
+[00:21:09]   Loaded 3 filterscripts.
+
+[00:21:09] 
+#############################
+[00:21:09] #                           #
+[00:21:09] #          [Sarcr]          #
+[00:21:09] #        San Andreas        #
+[00:21:09] #   Roleplay/Cops/Robbers   #
+[00:21:09] #                           #
+[00:21:09] #############################
+
+[00:21:09] Number of vehicle models: 164

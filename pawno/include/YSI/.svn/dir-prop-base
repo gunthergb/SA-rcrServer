@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 118
+Core
+Gamemode
+Player
+Server
+Setup
+System
+Tracking
+Visual
+YSI_debug.own
+YSI_dependencies.own
+YSI_misc.own
+YSI_post.own
+
+END
